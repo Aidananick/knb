@@ -1,1 +1,1 @@
-# knb game writed on Flutter with cute design
+# knb game writed on Flutter for Android with cute design
